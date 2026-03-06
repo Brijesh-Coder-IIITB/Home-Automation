@@ -7,11 +7,11 @@ A modular and interactive application for managing various smart home devices, i
 Download the project from GitHub or clone it using the following command.
 
 ```
-git clone https://github.com/Brijesh-Coder-IIITB/Python-Project.git
+git clone https://github.com/Brijesh-Coder-IIITB/Home-Automation.git
 ```
 
-- Navigate into the Python-Project-main directory before running the program.
-- Python-Project-main.zip contains the project files, Extract them.
+- Navigate into the Home-Automation-main directory before running the program.
+- Home-Automation-main.zip contains the project files, Extract them.
 - Open the terminal and navigate to the project directory.
 - Run the following command to execute the project.
 
